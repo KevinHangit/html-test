@@ -1,0 +1,19 @@
+p {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    text-align: left;
+    
+}
+
+.green {
+    color: rgb(0, 255, 42);
+    text-align: start;
+    font-size: 25px;
+
+}
+
+#totitles {
+    color: hotpink;
+    text-align: center;
+    font: 200px;
+}
